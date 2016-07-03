@@ -1,8 +1,8 @@
 # Amazon Web Services #
-**Contributors:** bradt, deliciousbrains  
-**Tags:** amazon, amazon web services  
+**Contributors:** ramsaylanier
+**Tags:** react, graphql, wordexpress, node  
 **Requires at least:** 3.7  
-**Tested up to:** 4.3  
+**Tested up to:** 4.5  
 **Stable tag:** trunk  
 **License:** GPLv3
 
