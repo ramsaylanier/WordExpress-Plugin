@@ -1,0 +1,15 @@
+{
+  "name": "ramsaylanier/WordExpress-Plugin",
+  "version": "0.1",
+  "description": "Plugin required to work for using layouts with WordExpress",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ramsay Lanier",
+      "email": "ramsay@nclud"
+    }
+  ],
+  "require": {},
+  "autoload": {},
+  "scripts": {}
+}
